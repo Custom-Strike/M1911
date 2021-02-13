@@ -1,0 +1,20 @@
+"items_game"
+{
+	"items"
+	{
+	
+	"36"
+		{
+			"item_name"		"M1911"
+			"item_description"		"The M1911, also known as the Colt Government, is a single-action, semi-automatic, magazine-fed, recoil-operated pistol chambered for the .45 ACP cartridge. It served as the standard-issue sidearm for the United States Armed Forces from 1911 to 1986."
+			"attributes"
+			{
+				"in game price"		"500"
+				"damage"		"52"
+				"primary clip size"		"7"
+				"range modifier"		"0.810000"
+				"primary reserve ammo max"		"35"
+			}
+		}
+	}
+}

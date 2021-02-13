@@ -1,0 +1,19 @@
+{
+	"name": "M1911",
+	"author": "A R E Z",
+	"social": "youtube.com/c/TeamOlympus",
+	"authors": 
+	[
+		{
+			"name": "A R E Z", 		
+			"role": "Animations & Port",
+			"social": "youtube.com/c/TeamOlympus"
+		},
+		{
+			"name": "DamKung13",
+			"social": "sketchfab.com/3d-models/3d-colt-m1911-a47e6f99f5da489297e61d0cfc308b2f",
+			"role": "Original Model from Sketchfab"			
+		}
+	],
+	"replacement": "P250"
+}
